@@ -1,0 +1,42 @@
+What are the advantages of Bootstrap? 
+
+Bootstrap is easy to use. It is a way faster annd simplier way to develop websites. It is highly useful to create responsive web pages.
+Further, it is supported by different browser. It is easily customizable since it provides the built-in components and functionalities can 
+be used to customize the webpage. 
+
+What is a Bootstrap Container, and how does it work? 
+ Boostrap container are used to pad the content inside of them. The use of bootstrap container is to fixed a width container. 
+
+What are the default Bootstrap text settings? 
+
+Bootstrap uses a default font-size 16px and line height:1.5. The default font-family is "Helvetica Neue",Helvetica,sans-serif. 
+
+What do you know about the Bootstrap Grid System? 
+Grid system is built with flexbox and allows up to 12 columns across the page. these 12 columns can be manipulated accordingly. It can be grouped to get create a wider columns.The grid system is responsive and columns will arrange automatically according to the screen size.The sums must add up to 12 or fewer column. 
+
+What is the difference between Bootstrap 4 and Bootstrap 5?
+
+There are many differences. Here are few: Bootstrap 4 was released in january 2018 and has significantly advance features over previous versions. Similarly,Bootstrap 5 has added new features over previous version. Grid system in Boostrap 4 has only 5 levels and 6 levels in bootstrap 5. Jquery plugins are included in Bootstrap 4 and in Boostrap 5 jquery is replaced with vanilla plug ins.
+
+What is a Button Group, and what is the class for a basic Button Group? 
+
+Button Groups allows multiple buttons to be stacked together on a single line. .btn-group is the class for a basic Button group. 
+
+How can you use Bootstrap to make thumbnails? 
+
+we can add an <a> tag with the class of .thumbnail around an image.
+This adds four pixels of padding and a gray border.
+On hover, an animated glow outlines the image.
+
+In Bootstrap 4, what is flexbox? 
+
+Bootstrap 4 uses flexbox,instead of floats, to handle the layout. The flexible responsive layouts structure without using float.
+
+How can one create an alert in Bootstrap?
+
+Bootstrap gives easy ways to create predefined alert messages. Alerts are created with .alert class 
+
+What is a bootstrap card and how would you create one? 
+
+Bootstrap's card gives a flexible and extensible content container with multiple variants and options such as background colors and powerful display.
+
